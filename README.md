@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yavi603/LeetCode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/yavi603/LeetCode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yavi603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/yavi603/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yavi603/LeetCode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yavi603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yavi603/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
